@@ -2,6 +2,8 @@
 
 https://snack.expo.dev/@aditya2403/2c6614
 
+![Demo Picture](/assets/weatherdemo.png)
+
 
 Open the `App.js` file to start viewing the code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
